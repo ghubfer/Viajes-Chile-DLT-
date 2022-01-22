@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
+}
+
+/*Estilos de navbar*/
+.navbar {
+    position: fixed;
+    width: 100vw;
+    z-index: 2;
+}
+
+/*Estilos de Presentación*/
+.presentacion {
+    margin-top: 100px;
+}
+
+.linea {
+    color: #009e9e;
+    opacity: 100%;
+}
+
+.iconos {
+    background-color: #009e9e;
+}
