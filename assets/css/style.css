@@ -24,3 +24,46 @@ body {
 .iconos {
     background-color: #009e9e;
 }
+
+/*Estilos de Destacados*/
+
+.destacados {
+    margin-top: 150px;
+}
+
+.card {
+    background-color: #009e9e;
+}
+
+.card-img-top {
+    height: 190px;
+}
+
+/*Estilos de Contacto*/
+
+.contacto {
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
+.formulario {
+    background-color: #fff;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.contacto-texto {
+    opacity: 50%;
+    margin-bottom: 50px;
+}
+
+/*Estilos de Footer*/
+
+.footer {
+    background-color: #009e9e;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
